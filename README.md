@@ -50,5 +50,4 @@ Sinta-se à vontade para entrar em contato comigo pelo e-mail Jcarlos.alegria201
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superkarlos&langs_count=8&theme=neon)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superkarlos&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=superkarlos&show_icons=true&theme=transparent)</div>
+
