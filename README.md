@@ -9,10 +9,10 @@ Sinta-se à vontade para entrar em contato comigo pelo e-mail Jcarlos.alegria201
 <h1>🚀Conhecimentos</h1>
 🎓Ao longo do meu percurso académico, estive envolvido em projetos académicos e trabalhos  desde 2017 pelo ifrn e atualmente pela ufrn. Adquiri diversas competências, nomeadamente:
   <ul>
-<li>Linguagens de programação: C, C++,Java Python e JavaScript</li>
+<li>Linguagens de programação: C, C++,Java, Python e JavaScript</li>
 <li>Desenvolvimento Web: Flask Python,Spring em Java, JavaScript, React, CSS, HTML</li>
 <li>Bancos de dados: MySQL</li>
-<li>Desing: Adobe Photoshop,Adobe Illustrator </li>
+<li>Desing: Adobe Photoshop,Adobe Illustrator,figma </li>
 <li>Animação gráfica: Adobe animate</li>
 <li>Jogos: unity e construct 3</li>
 
@@ -30,12 +30,13 @@ Sinta-se à vontade para entrar em contato comigo pelo e-mail Jcarlos.alegria201
 <p1>📚 Frameworks <br></p1>
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)<br>
 <p1>Desenvolvimentos de jogos:<br></p1>
-![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)<br>
+![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white)![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br>
 <p1>Programas Usados:<br></p1>
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)<br>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)	![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)<br>
 <p1>💻 IDEs <br></p1>
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br>
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)<br>
 
 <h1>📊 GitHub Stats:</h1>
 
