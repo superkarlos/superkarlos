@@ -53,8 +53,5 @@ Sinta-se à vontade para entrar em contato comigo pelo e-mail Jcarlos.alegria201
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)<br>
 
-<h1>📊 GitHub Stats:</h1>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=superkarlos&langs_count=8&theme=neon)
 
